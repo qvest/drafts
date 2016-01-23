@@ -1,5 +1,5 @@
 .. _testfile:
 
 
-.. image: susanne_schade.jpg
+.. image:: susanne_schade.jpg
 
